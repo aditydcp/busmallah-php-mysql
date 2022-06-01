@@ -1,6 +1,11 @@
 {
     "name": "aditydcp/busmallah-php-mysql",
     "type": "project",
+    "autoload": {
+        "psr-4": {
+            "Aditydcp\\BusmallahPhpMysql\\": "src/"
+        }
+    },
     "authors": [
         {
             "name": "Aditya Cahyo",
