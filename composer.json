@@ -1,0 +1,11 @@
+{
+    "name": "aditydcp/busmallah-php-mysql",
+    "type": "project",
+    "authors": [
+        {
+            "name": "Aditya Cahyo",
+            "email": "aditydcp@gmail.com"
+        }
+    ],
+    "require": {}
+}
